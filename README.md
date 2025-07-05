@@ -57,4 +57,5 @@ fig.show()
 ## Autor
 
 [Yuri Ferreira Gomes](https://github.com/devyurifg)
+
 📧 devyurifg@gmail.com
